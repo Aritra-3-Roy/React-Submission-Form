@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Submission-Form/static/css/main.13dbdf01.css",
+    "main.js": "/React-Submission-Form/static/js/main.559180cf.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-Submission-Form/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/React-Submission-Form/index.html",
+    "main.13dbdf01.css.map": "/React-Submission-Form/static/css/main.13dbdf01.css.map",
+    "main.559180cf.js.map": "/React-Submission-Form/static/js/main.559180cf.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-Submission-Form/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13dbdf01.css",
+    "static/js/main.559180cf.js"
+  ]
+}
